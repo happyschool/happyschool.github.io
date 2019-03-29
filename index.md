@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Happy Crypto School
 
 You can use the [editor on GitHub](https://github.com/happyschool/happyschool.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
