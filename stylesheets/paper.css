@@ -1,0 +1,12 @@
+img {
+  max-width: 650px;
+  margin: 0 auto;
+  display: block;
+  width: 100%;
+}
+
+.content {
+  max-width: 700px;
+  padding: 20px;
+  margin: 20px auto;
+}
